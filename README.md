@@ -2,7 +2,7 @@
 
 ## Intro
 
-Hi! If you've got here, maybe you had the same journey that I did: follow the instuctions on the [Zig](https://ziglang.org) website for installing on macOS, only to discover that most Zig tutorials (like [Ziglings](https://codeberg.org/ziglings/exercises) don't support the latest _stable_ version, but usually something closer to bleeding edge.
+Hi! If you've got here, maybe you had the same journey that I did: follow the instuctions on the [Zig](https://ziglang.org) website for installing on macOS, only to discover that most Zig tutorials (like [Ziglings](https://codeberg.org/ziglings/exercises)) don't support the latest _stable_ version, but usually something closer to bleeding edge.
 
 Well... this is what I did, and hopefully it helps.
 
@@ -30,7 +30,7 @@ Well... this is what I did, and hopefully it helps.
 
 4. ### Add to Path
 
-    If you chose to put your zig executable in the `~/bin` folder, and you have not already added to your path, you will need to do that.
+    If you chose to put your zig executable in the `~/bin` folder, and you have not already added that folder to your path, you will need to do that.
 
     ```zsh
     echo 'export PATH=$PATH:~/bin' >> ~/.zshrc
