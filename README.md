@@ -10,7 +10,7 @@ Well... this is what I did, and hopefully it helps.
 
 1. ### Download
 
-    Head on over to the Zig [download page](https://ziglang.org/download/) and downloadt the appropriate file. If you're on an M-series processor, that is the `aarch64`, otherise `x86_64`.
+    Head on over to the Zig [download page](https://ziglang.org/download/) and download the appropriate file. If you're on an M-series processor, that is the `aarch64`, otherise `x86_64`.
 
 1. ### Extract
 
